@@ -871,7 +871,7 @@ pipeline {
 ### Build it
 
 
-Your application is deployed in kubernetes to access it.
+Your application is deployed in kubernetes to access it. 
 
 Goto console output --> scroll down -->  you will get an port number under `kubectl get svc -n webapps`
 

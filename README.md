@@ -880,7 +880,7 @@ Copy the ip adress of Slave-1 instance(workernode) and paste it in new tab with 
 `<public-ip:32304>`
 
 <div align="center">
-<img src="img/game.png" alt="Logo" height="100%" width="100%">
+<img src="img/game.png" alt="Logo" width="100%" height="100%">
 <p align="center"> Home page </p>
 </div>
 

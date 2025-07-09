@@ -737,7 +737,7 @@ pipeline {
         }
         stage('Git Checkout') {
             steps {
-                git branch: 'main', credentialsId: 'github', url: 'https://github.com/didin2003/Game.git'
+                git branch: 'main', credentialsId: 'github', url: 'https://github.com/didin2003/boardGame.git'
             }
         }
         stage('Compile') {

@@ -997,7 +997,7 @@ ls
 Access it with `<public-ip:9115>`
 
 <div align="center">
-<img src="img/blackbox.png" alt="Logo" height="100%" weight="100%">
+<img src="img/blackbox.png" alt="Logo" height="100%" width="100%">
 <p align="center"> Blackbox Page </p>
 </div>
 
